@@ -1,2 +1,3 @@
 # libencoding
-Instruction encoding backend
+
+Instruction encoding backend for REGULAR VM.
